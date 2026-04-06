@@ -88,3 +88,12 @@ When no custom prompt suffix is added, images are generated with the default col
 
 You can override this by crafting your own descriptive prompt.
 
+## Example Output
+
+```bash
+node coloringpagegenerator.js "black and white line art coloring page, clean outlines, no shading, no color fills, white background, detailed illustration suitable for coloring, bold clear lines, printable coloring book style"
+```
+
+![Example output](https://oss.talesofai.cn/picture/ff069578-00c7-405b-ad70-c2faf78f48aa.webp)
+
+> Prompt: *"black and white line art coloring page, clean outlines, no shading, no color fills, white background, detailed illustration suitable for coloring, bold clear lines, printable coloring book style"*
